@@ -1,4 +1,3 @@
-# KIMI MedCare - AI-Powered Medical Diagnostic Assistant
 ## Comprehensive Documentation
 
 **Version:** 2.0  
@@ -542,10 +541,3 @@ MAX_UPLOAD_SIZE=16777216           # 16MB upload limit
 
 **Disclaimer:**
 This AI tool is for educational and research purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of qualified healthcare professionals with any questions about medical conditions.
-
----
-
-*Document Version: 2.0*  
-*Last Updated: July 14, 2025*  
-*© 2025 Tech Mahindra Healthcare & Life Sciences*#   A I _ D i a g n o s i s  
- 
